@@ -1,3 +1,1 @@
-# ClasesASO
-
-Clases de Administración de Sistemas Operativos
+# Clases de Administración de Sistemas Operativos
